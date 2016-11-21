@@ -1,6 +1,6 @@
 # Introduction
 
-First and foremost, Git is easy. Git is fun. Thanks Linus!
+First and foremost, Git is easy. Git is fun. Thanks Linus
 
 During the next year you will learn the fundamentals of data science.
 
